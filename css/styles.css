@@ -1,0 +1,15 @@
+div.level {
+    text-align: center;
+    position: center;
+}
+a.invis {
+    text-decoration: none;
+  	color: #000;
+}
+div.flex {
+   display: flex;
+   justify-content: space-between;
+}
+div.editors {
+	float: left;
+}

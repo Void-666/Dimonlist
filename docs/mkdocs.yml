@@ -1,0 +1,7 @@
+site_name: Silent GDPS 2.1 Demonlist Docs
+site_author: SilentVoid
+copyright: ©Silent GDPS Development Team
+theme:
+    name: mkdocs
+    locale: ru
+    highlightjs: true
