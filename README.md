@@ -10,3 +10,5 @@ Dependencies:
 3. Configure `connection.php` in `libs`
 4. Configure `data.php`
 5. Add whitelisted users IDs to `whiteList.php`
+6. Upload list to server
+7. Done!
